@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart1
+title: Page 1
+content: >
+  A program is required to ask for and to take in a worker’s credentials -&#x20;
+
+
+  * worker’s name (string) 
+
+
+  * date of birth (integer - e.g.01012013)
+
+
+  * job title (string) &#x20;
+
+
+  * unique ID number (integer)
+
+
+  An Employee ID Card has to be displayed with the card having the __Company
+  Name “Dunder Mifflin”__ and the worker’s information shown after heading
+  titles.
+showEditor: true
+editors:
+  - course1/unit1/lesson1/lessonpart1/ID_Card.py
